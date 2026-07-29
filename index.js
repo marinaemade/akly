@@ -26,7 +26,7 @@ const menuData = {
   ]},
   sides: { icon:'container', label:'Sides', items:[
     { name:"Cheese Fries", desc:"Crispy fries topped with melted cheddar and jalapenos", tag:"Classic", price:"45", img:"https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=700" },
-    { name:"Basmati Rice", desc:"Yellow long-grain rice with Egyptian aromatic spices", tag:"Simple", price:"55", img:"https://images.unsplash.com/photo-1536304929831-ee1ca9d44906?w=700" },
+    { name:"Roz Basmati", desc:"Yellow long-grain rice with Egyptian aromatic spices", tag:"Simple", price:"55", img:"https://images.unsplash.com/photo-1536304929831-ee1ca9d44906?w=700" },
     { name:"Tehina & Pickles", desc:"Traditional sesame paste and house-made Egyptian pickles", tag:"Essential", price:"40", img:"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=700" },
     { name:"Sauteed Vegetables", desc:"Seasonal veggies tossed in butter and herbs", tag:"Healthy", price:"90", img:"https://images.unsplash.com/photo-1540420773420-3366772f4999?w=700" }
   ]},
